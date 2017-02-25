@@ -2,4 +2,3 @@ metalmorlord;Postet das Metal-Morlord-GIF;https://toadsworthlp.github.io/Files/m
 pinguin;Tut so, als wäre ein Pinguin in der Nähe.;Welcher Pinguin? Wo ist ein Pinguin?
 bananenmeme;Postet das offizielle Meme des Imperiums.;https://toadsworthlp.github.io/Files/bananenmeme.jpg
 mango;Ärgert Gamestesh/Amitesh.;https://cdn.discordapp.com/attachments/266868548201086977/278582540204507138/MangoxShadow.jpg
-echo;Postet das als 1. Parameter angegebene Wort;%u sagt:%n%a

@@ -1,5 +1,5 @@
-var msg = "Start ";
-for (i = 1; i <= 10; i++) { 
+var msg = "";
+for (i = 1; i < 10; i++) { 
     msg+" "+i
 }
-context.getMessage().getChannel().sendMessage(msg)kmujnzhtgrf
+context.getMessage().getChannel().sendMessage(msg)

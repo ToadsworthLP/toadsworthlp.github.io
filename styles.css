@@ -1,0 +1,10 @@
+@font-face {
+    font-family: undertale;
+    src: url(dtm-mono.otf);
+}
+
+body {
+	background: black;
+	color: white;
+	font-family: 'undertale';
+}

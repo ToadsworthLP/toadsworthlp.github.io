@@ -3,8 +3,19 @@
     src: url(dtm-mono.otf);
 }
 
+@font-face {
+    font-family: title;
+    src: url(title.otf);
+}
+
 body {
 	background: black;
 	color: white;
 	font-family: 'undertale';
+}
+
+h1 {
+	background: black;
+	color: white;
+	font-family: 'title';
 }
